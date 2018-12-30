@@ -1,5 +1,8 @@
-html{
-  background-color: BlanchedAlmond;
+html {
+  background-color: silver;
+  color: Oldlace;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  text-align: center;
 }
 
 img {
@@ -8,14 +11,13 @@ border-width: 4px;
 border_color: mediumslateBlue;
   
 h1 {
-font-family:'Lucida Sans Unicode','Lucida Grande' sans-serif;
+font-family:"Comic Sans MS", cursive, sans-serif;
 font-size: 48px;
-color: Azure;
   }
+
 h3 {
-font-family:'Lucida Sans Unicode','Lucida Grande' sans-serif;
+font-family:"Comic Sans MS", cursive, sans-serif;
 font-size: 20px;
-color: Azure;
   }
 
 
