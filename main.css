@@ -6,28 +6,36 @@ html {
 }
 
 img {
-border-style: groove;
-border-width: 4px;
-border_color: mediumslateBlue;
+  border-style: groove;
+  border-width: 4px;
+  border_color: mediumslateBlue;
   
 h1 {
-font-family:"Comic Sans MS", cursive, sans-serif;
-font-size: 48px;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size: 48px;
   }
-  h2 {
+  
+ h2 {
   font-family:"Comic Sans MS", cursive,sans-serif;
   color: Oldlace;
   }
 
 h3 {
-font-family:"Comic Sans MS", cursive, sans-serif;
-font-size: 20px;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size: 20px;
   }
   
-  a:Link {
-    color: OldLace;
-    text-decoration: none;
+a:Link {
+  color: OldLace;
+  text-decoration: none;
   }
-
+  
+ol {
+  text-align: left;
+  }
+  
+  li {
+    text-align: left;
+  }
 
   
