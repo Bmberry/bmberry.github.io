@@ -26,17 +26,17 @@ h3 {
   font-size: 20px;
   }
   
-Link {
+a {
   color: OldLace;
   text-decoration: none;
   }
   
-hover {
+a:hover {
   color: OldLace;
   text-decoration: underline;
 }
 
-visited {
+a:visited {
   color:OldLace;
 }
 
