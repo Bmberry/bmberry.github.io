@@ -1,1 +1,52 @@
-hjohi g
+html {
+  background-color: silver;
+  color: Oldlace;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  text-align: center;
+  }
+
+img {
+  border-style: groove;
+  border-width: 4px;
+  border_color: mediumslateBlue;
+  }
+  
+h1 {
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size: 48px;
+  }
+  
+ h2 {
+  font-family:"Comic Sans MS", cursive,sans-serif;
+  color: Oldlace;
+  }
+
+h3 {
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size: 20px;
+  }
+  
+a {
+  color: OldLace;
+  text-decoration: none;
+  }
+  
+a:hover {
+  color: OldLace;
+  text-decoration: underline;
+}
+
+a:visited {
+  color:OldLace;
+}
+
+ol {
+  text-align: left;
+  }
+  
+  li {
+    text-align: left;
+  }
+
+  
+© 2018 GitHub, Inc.
