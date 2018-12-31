@@ -3,12 +3,13 @@ html {
   color: Oldlace;
   font-family:"Comic Sans MS", cursive, sans-serif;
   text-align: center;
-}
+  }
 
 img {
   border-style: groove;
   border-width: 4px;
   border_color: mediumslateBlue;
+  }
   
 h1 {
   font-family:"Comic Sans MS", cursive, sans-serif;
@@ -25,19 +26,20 @@ h3 {
   font-size: 20px;
   }
   
-a:Link {
+Link {
   color: OldLace;
   text-decoration: none;
   }
   
-a:hover {
+hover {
   color: OldLace;
   text-decoration: underline;
 }
 
-a:visited {
+visited {
   color:OldLace;
 }
+
 ol {
   text-align: left;
   }
