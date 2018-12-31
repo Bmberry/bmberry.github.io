@@ -19,6 +19,11 @@ h3 {
 font-family:"Comic Sans MS", cursive, sans-serif;
 font-size: 20px;
   }
+  
+  a:Link {
+    color: OldLace;
+    text-decoration: none;
+  }
 
 
   
